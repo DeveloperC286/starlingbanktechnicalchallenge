@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.0.1 (2024-03-01)
+
+## What's Changed
+* docs: removing useless release-please comments by @DeveloperC286 in https://github.com/DeveloperC286/starlingbanktechnicalchallenge/pull/89
+* ci: improved release-please commit title by @DeveloperC286 in https://github.com/DeveloperC286/starlingbanktechnicalchallenge/pull/91
+* build: upgrading to Earthly v0.8.1 by @DeveloperC286 in https://github.com/DeveloperC286/starlingbanktechnicalchallenge/pull/92
+* ci: limiting mirroring concurrency by @DeveloperC286 in https://github.com/DeveloperC286/starlingbanktechnicalchallenge/pull/93
+* docs: adding GitHub Release badge by @DeveloperC286 in https://github.com/DeveloperC286/starlingbanktechnicalchallenge/pull/94
+* docs: adding Conventional Commits badge by @DeveloperC286 in https://github.com/DeveloperC286/starlingbanktechnicalchallenge/pull/95
+* ci: fixing release-please pull request title by @DeveloperC286 in https://github.com/DeveloperC286/starlingbanktechnicalchallenge/pull/96
+* docs: updating CI badge URL by @DeveloperC286 in https://github.com/DeveloperC286/starlingbanktechnicalchallenge/pull/97
+* build: cargo install --locked by @DeveloperC286 in https://github.com/DeveloperC286/starlingbanktechnicalchallenge/pull/98
+
+
+**Full Changelog**: https://github.com/DeveloperC286/starlingbanktechnicalchallenge/compare/v1.0.0...v1.0.1
+
 ## 1.0.0 (2024-01-23)
 
 ## What's Changed
